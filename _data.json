@@ -1,0 +1,36 @@
+{
+  "lang": "en",
+  "layout": "page.njk",
+  "metas": {
+    "title": "Project Bluefin Documentation",
+    "site": "Project Bluefin Docs",
+    "lang": "en",
+    "description": "Project Bluefin Documentation"
+  },
+  "top_links": [
+    {
+      "icon": "fab fa-github",
+      "title": "GitHub Repository",
+      "url": "https://github.com/hexagon/lumocs"
+    },
+    {
+      "icon": "fab fa-npm",
+      "title": "NPM Library",
+      "url": "https://npmjs.com"
+    }
+  ],
+  "nav_links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/ublue-os/bluefin"
+    },
+    {
+      "title": "Community",
+      "url": "https://community.projectbluefin.io"
+    },
+    {
+      "title": "Feedback",
+      "url": "https://feedback.projectbluefin.io"
+    }
+  ]
+}
